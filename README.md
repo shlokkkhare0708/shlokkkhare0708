@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @shlokkkhare0708
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning B.Tech CS (IoT) from SRMCEM Lucknow
-- 💞️ I’m looking to collaborate on Instagram and On E-mail
-- 📫 How to reach me My Insta Handle:- shlokkhare0708
 -                    My E-Mail ID:- shlokkhare0708@gmail.com
 
 <!---
