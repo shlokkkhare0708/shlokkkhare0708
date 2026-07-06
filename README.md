@@ -8,12 +8,13 @@ Passionate about building real-world IoT solutions and continuously improving my
 
 # About Me
 
-- Currently learning **Java, Backend Development, System Design, and Data Structures & Algorithms**
-- Working on **IoT projects using Raspberry Pi, ESP8266, ESP32, Node-RED, MQTT, and Arduino**
-- Looking to collaborate on **Open Source, IoT, and Backend Development projects**
-- Exploring **Cloud integration for IoT applications**
-- Solving coding challenges regularly on **LeetCode**
-- Goal: Become a Software Engineer specializing in Backend Development and IoT
+- 🔭 Currently building **IoT systems** with `Raspberry Pi`, `ESP8266`, `ESP32`, `Arduino`, `Node-RED` & `MQTT`
+- 💻 Sharpening **Java**, **DSA**, and **System Design** fundamentals for scalable software
+- 🎨 Growing my **Frontend Development** skills — building clean, responsive UIs
+- ☁️ Exploring **Cloud integration for IoT** — pushing sensor data to the cloud and back
+- 🧩 Solving algorithmic problems daily on **LeetCode**
+- 🌱 Actively looking to **collaborate on Open Source, IoT, and Frontend projects**
+- 🎯 **Goal:** Software Engineer specializing in **Frontend Development + IoT**
 
 ---
 
