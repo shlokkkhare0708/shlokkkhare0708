@@ -1,8 +1,8 @@
 # Hi , I'm Shlok Khare
 
-B.Tech CSE (IoT) Student | IoT Developer | Backend Learner | Problem Solver
+B.Tech CSE (IoT) Student | IoT Developer | Frontend Learner | Problem Solver
 
-Passionate about building real-world IoT solutions and continuously improving my software development skills. I enjoy developing smart systems, exploring backend technologies, and solving Data Structures & Algorithms problems.
+Software developer specializing in IoT solutions, with hands-on experience building connected systems — sensor integration, embedded firmware, and cloud-connected backends. Skilled in backend development and DSA-driven problem solving, with a focus on writing efficient, production-ready code.
 
 ---
 
