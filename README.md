@@ -86,6 +86,6 @@ Software developer specializing in IoT solutions, with hands-on experience build
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Rajvardhan0406&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=shlokkkhare0708&style=for-the-badge&color=blue)
 
 > **"Consistency is the key to mastery. Keep learning, keep building." **
